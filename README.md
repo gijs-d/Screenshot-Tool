@@ -21,8 +21,8 @@ This project is a simple Node.js application that automates the process of takin
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/gijs-d/Screenshot-Tool.git
+    cd Screenshot-Tool
     ```
 
 2. Install the required packages:
